@@ -4,7 +4,7 @@
 - [Regulamento da Copa 2022](https://digitalhub.fifa.com/m/2744a0a5e3ded185/original/FIFA-World-Cup-Qatar-2022Regulations_EN.pdf)
 - [Calendário da Copa 2022](https://digitalhub.fifa.com/m/464f16f856f5ed05/original/FIFA-World-Cup-Qatar-2022-Match-Schedule.pdf)
 
-## Sobre o sistema de pontuação da FIFA
+## Sistema de pontuação da FIFA
 
 > After a long period testing and analysing the best way to calculate the FIFA/Coca-Cola World Ranking, a new model took effect in August 2018 after approval by the FIFA Council.
 >
@@ -26,6 +26,12 @@ Nesse sistema, ainda do "tipo" Elo, é interessante que a cada partida os times 
 
 
 [Referência](https://www.fifa.com/fifa-world-ranking/procedure-men)
+
+## Sistema de pontuação _World Football Elo Ratings_
+
+Esse sistema é o que inspirou a adaptação da FIFA, é bastante similar, levando em conta o resultado do jogo, expectativa prévia e importância das partidas. Porém, me parece que o da FIFA é mais customizado.
+
+[Referência](https://www.eloratings.net/about)
 
 ## Links úteis de fontes de dados:
 - https://www.eloratings.net/
