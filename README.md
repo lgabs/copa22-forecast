@@ -20,7 +20,7 @@ Nesse sistema, ainda do "tipo" Elo, é interessante que a cada partida os times 
 
 [Referência](https://www.fifa.com/fifa-world-ranking/procedure-men)
 
-## Links úteis de de fontes de dados:
+## Links úteis de fontes de dados:
 - https://www.eloratings.net/
 - https://www.kaggle.com/datasets/brenda89/fifa-world-cup-2022
 - https://www.fifa.com/fifa-world-ranking/men?dateId=id13792
