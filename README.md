@@ -8,8 +8,8 @@
 
 Os datasets deste repositório estão em `/datasets`. Os dados já minimamente pré-processados têm sufixo `preprocessed`, os que não tem são dados originais.
 
-1. `fifa_ranking_before_wc_preprocessed`: Ranking da FIFA antes de cada Copa para cada time. 1575 data points, da Copa de 1994 até a de 2022 (8 copas) e 227 times. 
-2. `elo_rating_preprocessed`: Ranking do Elo Ratings antes de cada Copa. 1848 datapoints, das 8 copas, 249 times.
+1. `fifa_ranking_before_wc_preprocessed`: Ranking da FIFA antes de cada Copa para cada time. 1575 data points, da Copa de 1994 até a de 2022 (8 copas) e 227 times. [Fonte](https://github.com/mahelvson/WorldCup2022)
+2. `elo_rating_preprocessed`: Ranking do Elo Ratings antes de cada Copa. 1848 datapoints, das 8 copas, 249 times. [Fonte](https://github.com/mahelvson/WorldCup2022)
 3. `international_football_results` folder: [Dataset do Kaggle](https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017) com informações sobre partidas de 1872 a 2022. Tem 44.152 resultados. 
 
 ## Sistema de pontuação da FIFA
@@ -39,7 +39,7 @@ Os dados estão disponíveis em vários momentos ao longo dos anos, o que é um 
 
 ## Sistema de pontuação _World Football Elo Ratings_
 
-Esse sistema é o que inspirou a adaptação da FIFA, é bastante similar, levando em conta o resultado do jogo, expectativa prévia e importância das partidas. Porém, me parece que o da FIFA é mais customizado. Além disso, os dados do Elo são anuais, portanto para uma dada copa, só podemos pegar dados do ano anterior.
+Esse sistema é o que inspirou a adaptação da FIFA, é bastante similar, levando em conta o resultado do jogo, expectativa prévia e importância das partidas. Porém, me parece que o da FIFA é mais customizado. Além disso, os dados mais compilados do Elo são anuais, portanto para uma dada copa, pegou-se dados do ano anterior. No site dos rankins há informações por partida, mas não compiladas por temporada; estes dados não foram coletados.
 
 [Referência](https://www.eloratings.net/about)
 
