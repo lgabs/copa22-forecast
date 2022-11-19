@@ -10,6 +10,14 @@
 >
 >More details about the formula used in the algorithm, weightings of matches and other characteristics can be found [HERE](https://resources.fifa.com/image/upload/fifa-world-ranking-technical-explanation-revision.pdf?cloudid=edbm045h0udbwkqew35a).
 
+Basicamente, a FIFA adaptou o sistema de Elo Ratings (largamente usado em esportes por décadas), incluindo algumas considerações próprias, como dar mais relevância para partidas de copas do que amistosos. Após uma dada partida de um time A contra um B, a pontuação de A de:
+- pontuação prévia
+- importância da partida. Amistoso tem menos importância que partidas em Copas ou Qualificações.
+- resultado da partida
+- resultado esperado da partida. Aqui, calcula-se um resultado esperado usando as pontuações prévias de A e B. Se A era melhor, era esperado que ele tivesse um resultado melhor.
+
+Nesse sistema, ainda do "tipo" Elo, é interessante que a cada partida os times trocam pontos, de forma que o total de pontos de todos os times ainda é igual.
+
 [Referência](https://www.fifa.com/fifa-world-ranking/procedure-men)
 
 ## Links úteis de de fontes de dados:
