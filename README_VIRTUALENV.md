@@ -9,3 +9,7 @@ Os nomes `myenv` e `"Python (myenv)"` são só sugestões. Veja mais detalhes [a
 Feito isso, ao iniciar um notebook dentro do seu ambiente virtual com `jupyter notebook`. Ao abrir, escolha seu ambiente como na imagem abaixo. 
 
 ![fig1](fig1.png)
+
+## Não consigo rodar na minha máquina?
+
+Se você não consegue rodar na sua máquina e quer resolver isso depois, você pode tentar pelo Google Colab, mas téra que fazer upload dos datasets para o Google Drive para facilitar. Quando você abre um notebook lá, é possível montar seu google drive com alguns cliques.

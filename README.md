@@ -1,4 +1,4 @@
-# copa22-forecast
+# Forecast da Copa de 2022
 
 ## Infos Básicas
 - [Regulamento da Copa 2022](https://digitalhub.fifa.com/m/2744a0a5e3ded185/original/FIFA-World-Cup-Qatar-2022Regulations_EN.pdf)
