@@ -15,8 +15,11 @@ Basicamente, a FIFA adaptou o sistema de Elo Ratings (largamente usado em esport
 - importância da partida. Amistoso tem menos importância que partidas em Copas ou Qualificações.
 - resultado da partida
 - resultado esperado da partida. Aqui, calcula-se um resultado esperado usando as pontuações prévias de A e B. Se A era melhor, era esperado que ele tivesse um resultado melhor.
+- partidas decididas com pênaltis tem pontuações equilibradas
+- perder em um knock-out round não perde pontos para proteger times que chegaram até lá.
 
-Nesse sistema, ainda do "tipo" Elo, é interessante que a cada partida os times trocam pontos, de forma que o total de pontos de todos os times ainda é igual.
+Nesse sistema, ainda do "tipo" Elo, é interessante que a cada partida os times trocam pontos iguais (exceto knockout rounds).
+
 
 [Referência](https://www.fifa.com/fifa-world-ranking/procedure-men)
 
