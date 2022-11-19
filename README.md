@@ -53,3 +53,4 @@ Esse sistema é o que inspirou a adaptação da FIFA, é bastante similar, levan
 - https://www.footballcritic.com/fifa-world-cup/season-2022-qatar/18/61217  (pontuações dos jogadores no fim da página)
 - https://www.betexplorer.com/links.php
 - https://www.kaggle.com/code/amineteffal/who-will-win-world-cup-2022
+- https://github.com/davidcamilo0710/QATAR_2022_Prediction/blob/master/Getting_Squads_Stats.ipynb
