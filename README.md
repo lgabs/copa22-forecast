@@ -4,6 +4,13 @@
 - [Regulamento da Copa 2022](https://digitalhub.fifa.com/m/2744a0a5e3ded185/original/FIFA-World-Cup-Qatar-2022Regulations_EN.pdf)
 - [Calendário da Copa 2022](https://digitalhub.fifa.com/m/464f16f856f5ed05/original/FIFA-World-Cup-Qatar-2022-Match-Schedule.pdf)
 
+## Datasets
+
+Os datasets deste repositório estão em `/datasets`. Os dados já minimamente pré-processados têm sufixo `preprocessed`, os que não tem são dados originais.
+
+1. `fifa_ranking_before_wc_preprocessed`: Ranking da FIFA antes de cada Copa para cada time. 1575 data points, da Copa de 1994 até a de 2022 (8 copas) e 227 times. 
+2. `elo_rating_preprocessed`: Ranking do Elo Ratings antes de cada Copa. 1848 datapoints, das 8 copas, 249 times.
+
 ## Sistema de pontuação da FIFA
 
 > After a long period testing and analysing the best way to calculate the FIFA/Coca-Cola World Ranking, a new model took effect in August 2018 after approval by the FIFA Council.
