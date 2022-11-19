@@ -1,6 +1,6 @@
 # copa22-forecast
 
-## Infos básicas
+## Infos Básicas
 - [Regulamento da Copa 2022](https://digitalhub.fifa.com/m/2744a0a5e3ded185/original/FIFA-World-Cup-Qatar-2022Regulations_EN.pdf)
 - [Calendário da Copa 2022](https://digitalhub.fifa.com/m/464f16f856f5ed05/original/FIFA-World-Cup-Qatar-2022-Match-Schedule.pdf)
 
@@ -22,14 +22,16 @@ Basicamente, a FIFA adaptou o sistema de Elo Ratings (largamente usado em esport
 - partidas decididas com pênaltis tem pontuações equilibradas
 - perder em um knock-out round não perde pontos para proteger times que chegaram até lá.
 
-Nesse sistema, ainda do "tipo" Elo, é interessante que a cada partida os times trocam pontos iguais (exceto knockout rounds).
+Nesse sistema, ainda do "tipo" Elo, é interessante que a cada partida os times trocam pontos iguais (exceto knockout rounds). 
+
+Os dados estão disponíveis em vários momentos ao longo dos anos, o que é um pouco melhor porque nos dá pontos mais atualizados antes de cada copa.
 
 
 [Referência](https://www.fifa.com/fifa-world-ranking/procedure-men)
 
 ## Sistema de pontuação _World Football Elo Ratings_
 
-Esse sistema é o que inspirou a adaptação da FIFA, é bastante similar, levando em conta o resultado do jogo, expectativa prévia e importância das partidas. Porém, me parece que o da FIFA é mais customizado.
+Esse sistema é o que inspirou a adaptação da FIFA, é bastante similar, levando em conta o resultado do jogo, expectativa prévia e importância das partidas. Porém, me parece que o da FIFA é mais customizado. Além disso, os dados do Elo são anuais, portanto para uma dada copa, só podemos pegar dados do ano anterior.
 
 [Referência](https://www.eloratings.net/about)
 
