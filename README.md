@@ -13,6 +13,10 @@ Os datasets deste repositório estão em `/datasets`. Os dados já minimamente p
 3. `international_football_results` folder: [Dataset do Kaggle](https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017) com informações sobre partidas de 1872 a 2022. Tem 44.152 resultados. 
 4. `fifa_world_cup_2022`: outro dataset do Kaggle, combina o dataset (3) com Ranking da FIFA no momento das partidas e algumas métricas dos times coletadas do jogo FIFA. O ruim é que boa parte dessas métricas estão nulas antes de 2005. [Fonte](https://www.kaggle.com/datasets/brenda89/fifa-world-cup-2022)
 
+## Previsões
+
+Com base nos datasets, principalmente do 3º listado acima, montei um modelo básico para previsão dos jogos da Fase de Grupos, com o objetivo de acertar o resultado (quem ganha ou empate) e o número de gols de cada time. Esse problema é explorado no notebook em `code/model/Model GBDTs.ipynb`. Separando dados de 2018 em diante (que incluem a Copa de 2018), com um modelo sem muito ajuste de parâmetros é possível alcançar 60% de acurácia dos resultados. Já o número de gols é calculado com distribuições de Poisson, típicas para casos como número de gols ([detalhes aqui](https://allendowney.github.io/ThinkBayes2/chap08.html)). O modelo ainda permite muitas melhorias e, aliado a mais dados e melhores estratégias de lidar com a falta deles, é muito provável que haja como ter maior performance. Veja mais detalhes da modelagem no próprio notebook.
+
 ## Sistema de pontuação da FIFA
 
 > After a long period testing and analysing the best way to calculate the FIFA/Coca-Cola World Ranking, a new model took effect in August 2018 after approval by the FIFA Council.
