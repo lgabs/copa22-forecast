@@ -66,3 +66,4 @@ Esse sistema é o que inspirou a adaptação da FIFA, é bastante similar, levan
 - https://github.com/davidcamilo0710/QATAR_2022_Prediction/blob/master/Getting_Squads_Stats.ipynb
 - https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017
 - https://www.kaggle.com/datasets/brenda89/fifa-world-cup-2022
+- [Dataset do Kaggle com atributos de jogadores do game FIFA 2022](https://www.kaggle.com/datasets/stefanoleone992/fifa-22-complete-player-dataset)
