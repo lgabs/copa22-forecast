@@ -1,7 +1,7 @@
 from IPython.display import HTML
 import random
 
-def hide_toggle(for_next=False):
+def hide_toggle(for_next=True):
     this_cell = """$('div.cell.code_cell.rendered.selected')"""
     next_cell = this_cell + '.next()'
 
