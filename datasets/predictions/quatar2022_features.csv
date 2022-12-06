@@ -10,7 +10,7 @@ date,home_team,away_team,tournament,city,country,neutral_location,year,home_team
 2022-11-23,Germany,Japan,FIFA World Cup,Al Rayyan,Qatar,True,2022,12,1650,90.0,84.0,82.7,87.8,23,1553,73.0,75.2,75.0,77.5
 2022-11-23,Spain,Costa Rica,FIFA World Cup,Doha,Qatar,True,2022,7,1709,84.0,86.5,85.0,86.0,31,1503,88.0,71.5,70.3,69.2
 2022-11-23,Morocco,Croatia,FIFA World Cup,Al Khor,Qatar,True,2022,24,1551,82.0,81.2,81.7,76.2,16,1621,82.0,77.8,76.7,84.2
-2022-11-23,Belgium,Canada,FIFA World Cup,Al Rayyan,Qatar,True,2022,2,1827,89.0,80.8,85.7,85.5,38,1479,76.0,69.2,73.0,78.0
+2022-11-23,Belgium,Canada,FIFA World Cup,Al Rayyan,Qatar,True,2022,2,1827,89.0,80.8,85.7,85.5,33,1497,76.0,69.2,73.0,78.0
 2022-11-24,Switzerland,Cameroon,FIFA World Cup,Al Wakrah,Qatar,True,2022,14,1635,85.0,78.5,76.7,79.5,37,1480,67.0,76.8,77.7,75.0
 2022-11-24,Brazil,Serbia,FIFA World Cup,Lusail,Qatar,True,2022,1,1832,89.0,84.8,86.3,85.5,25,1547,80.0,75.8,80.3,81.8
 2022-11-24,Uruguay,South Korea,FIFA World Cup,Al Rayyan,Qatar,True,2022,13,1635,80.0,81.2,84.3,80.0,29,1519,75.0,73.0,80.0,73.8
@@ -26,7 +26,7 @@ date,home_team,away_team,tournament,city,country,neutral_location,year,home_team
 2022-11-27,Japan,Costa Rica,FIFA World Cup,Al Rayyan,Qatar,True,2022,23,1553,73.0,75.2,75.0,77.5,31,1503,88.0,71.5,70.3,69.2
 2022-11-27,Spain,Germany,FIFA World Cup,Al Khor,Qatar,True,2022,7,1709,84.0,86.5,85.0,86.0,12,1650,90.0,84.0,82.7,87.8
 2022-11-27,Belgium,Morocco,FIFA World Cup,Doha,Qatar,True,2022,2,1827,89.0,80.8,85.7,85.5,24,1551,82.0,81.2,81.7,76.2
-2022-11-27,Croatia,Canada,FIFA World Cup,Al Rayyan,Qatar,True,2022,16,1621,82.0,77.8,76.7,84.2,38,1479,76.0,69.2,73.0,78.0
+2022-11-27,Croatia,Canada,FIFA World Cup,Al Rayyan,Qatar,True,2022,16,1621,82.0,77.8,76.7,84.2,33,1497,76.0,69.2,73.0,78.0
 2022-11-28,Cameroon,Serbia,FIFA World Cup,Al Wakrah,Qatar,True,2022,37,1480,67.0,76.8,77.7,75.0,25,1547,80.0,75.8,80.3,81.8
 2022-11-28,Brazil,Switzerland,FIFA World Cup,Doha,Qatar,True,2022,1,1832,89.0,84.8,86.3,85.5,14,1635,85.0,78.5,76.7,79.5
 2022-11-28,South Korea,Ghana,FIFA World Cup,Al Rayyan,Qatar,True,2022,29,1519,75.0,73.0,80.0,73.8,60,1387,74.0,75.5,76.0,78.2
@@ -42,7 +42,7 @@ date,home_team,away_team,tournament,city,country,neutral_location,year,home_team
 2022-12-01,Japan,Spain,FIFA World Cup,Al Rayyan,Qatar,True,2022,23,1553,73.0,75.2,75.0,77.5,7,1709,84.0,86.5,85.0,86.0
 2022-12-01,Costa Rica,Germany,FIFA World Cup,Al Khor,Qatar,True,2022,31,1503,88.0,71.5,70.3,69.2,12,1650,90.0,84.0,82.7,87.8
 2022-12-01,Croatia,Belgium,FIFA World Cup,Al Rayyan,Qatar,True,2022,16,1621,82.0,77.8,76.7,84.2,2,1827,89.0,80.8,85.7,85.5
-2022-12-01,Canada,Morocco,FIFA World Cup,Doha,Qatar,True,2022,38,1479,76.0,69.2,73.0,78.0,24,1551,82.0,81.2,81.7,76.2
+2022-12-01,Canada,Morocco,FIFA World Cup,Doha,Qatar,True,2022,33,1497,76.0,69.2,73.0,78.0,24,1551,82.0,81.2,81.7,76.2
 2022-12-02,Serbia,Switzerland,FIFA World Cup,Doha,Qatar,True,2022,25,1547,80.0,75.8,80.3,81.8,14,1635,85.0,78.5,76.7,79.5
 2022-12-02,Cameroon,Brazil,FIFA World Cup,Lusail,Qatar,True,2022,37,1480,67.0,76.8,77.7,75.0,1,1832,89.0,84.8,86.3,85.5
 2022-12-02,Ghana,Uruguay,FIFA World Cup,Al Wakrah,Qatar,True,2022,60,1387,74.0,75.5,76.0,78.2,13,1635,80.0,81.2,84.3,80.0

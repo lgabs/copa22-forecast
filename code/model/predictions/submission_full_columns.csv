@@ -1,49 +1,49 @@
 key,date,home_team,away_team,home_team_result,home_score,away_score,home_results_by_goals,are_both_preds_equal,home_code,away_code,final_score,home_final_score,away_final_score
-"('QAT', 'ECU')",2022-11-20,Qatar,Ecuador,1,1,1,0,False,QAT,ECU,1x0,1,0
+"('QAT', 'ECU')",2022-11-20,Qatar,Ecuador,1,1,1,0,False,QAT,ECU,2x1,2,1
 "('SEN', 'NED')",2022-11-21,Senegal,Netherlands,-1,1,2,-1,True,SEN,NED,1x2,1,2
 "('ENG', 'IRN')",2022-11-21,England,Iran,1,2,1,1,True,ENG,IRN,2x1,2,1
 "('USA', 'WAL')",2022-11-21,United States,Wales,1,1,1,0,False,USA,WAL,1x0,1,0
-"('FRA', 'AUS')",2022-11-22,France,Australia,1,1,1,0,False,FRA,AUS,2x1,2,1
-"('DEN', 'TUN')",2022-11-22,Denmark,Tunisia,1,1,1,0,False,DEN,TUN,2x1,2,1
-"('MEX', 'POL')",2022-11-22,Mexico,Poland,-1,1,1,0,False,MEX,POL,1x2,1,2
-"('ARG', 'KSA')",2022-11-22,Argentina,Saudi Arabia,1,1,1,0,False,ARG,KSA,2x1,2,1
+"('FRA', 'AUS')",2022-11-22,France,Australia,1,1,1,0,False,FRA,AUS,1x0,1,0
+"('DEN', 'TUN')",2022-11-22,Denmark,Tunisia,1,1,1,0,False,DEN,TUN,1x0,1,0
+"('MEX', 'POL')",2022-11-22,Mexico,Poland,0,1,1,0,True,MEX,POL,1x1,1,1
+"('ARG', 'KSA')",2022-11-22,Argentina,Saudi Arabia,1,1,1,0,False,ARG,KSA,1x0,1,0
 "('BEL', 'CAN')",2022-11-23,Belgium,Canada,1,2,1,1,True,BEL,CAN,2x1,2,1
 "('ESP', 'CRC')",2022-11-23,Spain,Costa Rica,1,2,1,1,True,ESP,CRC,2x1,2,1
 "('GER', 'JPN')",2022-11-23,Germany,Japan,1,2,1,1,True,GER,JPN,2x1,2,1
-"('MAR', 'CRO')",2022-11-23,Morocco,Croatia,-1,1,1,0,False,MAR,CRO,0x1,0,1
-"('SUI', 'CMR')",2022-11-24,Switzerland,Cameroon,1,1,1,0,False,SUI,CMR,1x0,1,0
-"('URU', 'KOR')",2022-11-24,Uruguay,South Korea,1,1,1,0,False,URU,KOR,2x1,2,1
-"('POR', 'GHA')",2022-11-24,Portugal,Ghana,1,1,1,0,False,POR,GHA,2x1,2,1
+"('MAR', 'CRO')",2022-11-23,Morocco,Croatia,-1,1,1,0,False,MAR,CRO,1x2,1,2
+"('SUI', 'CMR')",2022-11-24,Switzerland,Cameroon,0,1,1,0,True,SUI,CMR,1x1,1,1
+"('URU', 'KOR')",2022-11-24,Uruguay,South Korea,1,1,1,0,False,URU,KOR,1x0,1,0
+"('POR', 'GHA')",2022-11-24,Portugal,Ghana,1,1,1,0,False,POR,GHA,1x0,1,0
 "('BRA', 'SRB')",2022-11-24,Brazil,Serbia,1,2,1,1,True,BRA,SRB,2x1,2,1
-"('WAL', 'IRN')",2022-11-25,Wales,Iran,-1,1,1,0,False,WAL,IRN,0x1,0,1
-"('QAT', 'SEN')",2022-11-25,Qatar,Senegal,-1,1,1,0,False,QAT,SEN,0x1,0,1
+"('WAL', 'IRN')",2022-11-25,Wales,Iran,-1,1,1,0,False,WAL,IRN,1x2,1,2
+"('QAT', 'SEN')",2022-11-25,Qatar,Senegal,-1,1,1,0,False,QAT,SEN,1x2,1,2
 "('NED', 'ECU')",2022-11-25,Netherlands,Ecuador,1,2,1,1,True,NED,ECU,2x1,2,1
 "('ENG', 'USA')",2022-11-25,England,United States,1,2,1,1,True,ENG,USA,2x1,2,1
 "('TUN', 'AUS')",2022-11-26,Tunisia,Australia,0,1,1,0,True,TUN,AUS,1x1,1,1
-"('POL', 'KSA')",2022-11-26,Poland,Saudi Arabia,1,1,1,0,False,POL,KSA,2x1,2,1
+"('POL', 'KSA')",2022-11-26,Poland,Saudi Arabia,1,1,1,0,False,POL,KSA,1x0,1,0
 "('FRA', 'DEN')",2022-11-26,France,Denmark,-1,1,1,0,False,FRA,DEN,1x2,1,2
 "('ARG', 'MEX')",2022-11-26,Argentina,Mexico,1,1,1,0,False,ARG,MEX,2x1,2,1
 "('JPN', 'CRC')",2022-11-27,Japan,Costa Rica,1,1,1,0,False,JPN,CRC,2x1,2,1
 "('BEL', 'MAR')",2022-11-27,Belgium,Morocco,1,2,1,1,True,BEL,MAR,2x1,2,1
 "('CRO', 'CAN')",2022-11-27,Croatia,Canada,1,1,1,0,False,CRO,CAN,2x1,2,1
-"('ESP', 'GER')",2022-11-27,Spain,Germany,-1,2,2,0,False,ESP,GER,1x2,1,2
-"('CMR', 'SRB')",2022-11-28,Cameroon,Serbia,-1,1,1,0,False,CMR,SRB,0x1,0,1
-"('KOR', 'GHA')",2022-11-28,South Korea,Ghana,1,1,1,0,False,KOR,GHA,2x1,2,1
+"('ESP', 'GER')",2022-11-27,Spain,Germany,-1,2,2,0,False,ESP,GER,2x3,2,3
+"('CMR', 'SRB')",2022-11-28,Cameroon,Serbia,-1,1,1,0,False,CMR,SRB,1x2,1,2
+"('KOR', 'GHA')",2022-11-28,South Korea,Ghana,1,1,1,0,False,KOR,GHA,1x0,1,0
 "('BRA', 'SUI')",2022-11-28,Brazil,Switzerland,1,2,1,1,True,BRA,SUI,2x1,2,1
-"('POR', 'URU')",2022-11-28,Portugal,Uruguay,1,1,1,0,False,POR,URU,2x1,2,1
+"('POR', 'URU')",2022-11-28,Portugal,Uruguay,1,1,1,0,False,POR,URU,1x0,1,0
 "('WAL', 'ENG')",2022-11-29,Wales,England,-1,1,2,-1,True,WAL,ENG,1x2,1,2
-"('IRN', 'USA')",2022-11-29,Iran,United States,0,1,1,0,True,IRN,USA,1x1,1,1
-"('ECU', 'SEN')",2022-11-29,Ecuador,Senegal,-1,1,1,0,False,ECU,SEN,1x2,1,2
+"('IRN', 'USA')",2022-11-29,Iran,United States,-1,1,1,0,False,IRN,USA,0x1,0,1
+"('ECU', 'SEN')",2022-11-29,Ecuador,Senegal,-1,1,1,0,False,ECU,SEN,0x1,0,1
 "('NED', 'QAT')",2022-11-29,Qatar,Netherlands,-1,1,2,-1,True,QAT,NED,1x2,1,2
 "('AUS', 'DEN')",2022-11-30,Australia,Denmark,-1,1,1,0,False,AUS,DEN,0x1,0,1
-"('TUN', 'FRA')",2022-11-30,Tunisia,France,0,1,1,0,True,TUN,FRA,1x1,1,1
-"('POL', 'ARG')",2022-11-30,Poland,Argentina,-1,1,1,0,False,POL,ARG,0x1,0,1
-"('KSA', 'MEX')",2022-11-30,Saudi Arabia,Mexico,-1,1,1,0,False,KSA,MEX,1x2,1,2
+"('TUN', 'FRA')",2022-11-30,Tunisia,France,-1,1,1,0,False,TUN,FRA,0x1,0,1
+"('POL', 'ARG')",2022-11-30,Poland,Argentina,-1,1,1,0,False,POL,ARG,1x2,1,2
+"('KSA', 'MEX')",2022-11-30,Saudi Arabia,Mexico,-1,1,1,0,False,KSA,MEX,0x1,0,1
 "('CRO', 'BEL')",2022-12-01,Croatia,Belgium,-1,1,2,-1,True,CRO,BEL,1x2,1,2
-"('CAN', 'MAR')",2022-12-01,Canada,Morocco,-1,1,1,0,False,CAN,MAR,1x2,1,2
+"('CAN', 'MAR')",2022-12-01,Canada,Morocco,1,1,1,0,False,CAN,MAR,2x1,2,1
 "('JPN', 'ESP')",2022-12-01,Japan,Spain,-1,1,2,-1,True,JPN,ESP,1x2,1,2
 "('CRC', 'GER')",2022-12-01,Costa Rica,Germany,-1,1,2,-1,True,CRC,GER,1x2,1,2
 "('GHA', 'URU')",2022-12-02,Ghana,Uruguay,-1,1,1,0,False,GHA,URU,1x2,1,2
 "('KOR', 'POR')",2022-12-02,South Korea,Portugal,-1,1,1,0,False,KOR,POR,0x1,0,1
-"('SRB', 'SUI')",2022-12-02,Serbia,Switzerland,-1,1,1,0,False,SRB,SUI,0x1,0,1
+"('SRB', 'SUI')",2022-12-02,Serbia,Switzerland,-1,1,1,0,False,SRB,SUI,1x2,1,2
 "('CMR', 'BRA')",2022-12-02,Cameroon,Brazil,-1,1,2,-1,True,CMR,BRA,1x2,1,2
